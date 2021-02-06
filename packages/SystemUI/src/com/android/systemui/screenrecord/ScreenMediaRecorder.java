@@ -52,6 +52,7 @@ import android.util.Size;
 import android.view.Surface;
 import android.view.WindowManager;
 
+import com.android.systemui.R;
 import com.android.systemui.media.MediaProjectionCaptureTarget;
 import com.android.systemui.R;
 
