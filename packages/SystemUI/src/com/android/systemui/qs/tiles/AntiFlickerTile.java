@@ -152,7 +152,7 @@ public class AntiFlickerTile extends QSTileImpl<QSTile.BooleanState> {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.CUSTOM;
+        return MetricsEvent.HORIZON;
     }
 
     @Override

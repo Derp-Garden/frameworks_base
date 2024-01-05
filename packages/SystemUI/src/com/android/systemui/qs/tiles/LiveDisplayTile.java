@@ -173,7 +173,7 @@ public class LiveDisplayTile extends QSTileImpl<QSTile.LiveDisplayState> {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.CUSTOM;
+        return MetricsEvent.HORIZON;
     }
 
     @Override
